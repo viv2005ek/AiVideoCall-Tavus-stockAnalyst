@@ -1,0 +1,13 @@
+/* Add any custom styles here */
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.btn {
+  border-radius: 5px;
+}
